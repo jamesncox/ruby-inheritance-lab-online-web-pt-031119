@@ -8,6 +8,8 @@ jim = User.new
 jim.first_name = "Jim"
 jim.last_name = "Halpert"
 
+some_knowledge = avi.teach
+
 jim.learn(some_knowledge)
 
 steve = Student.new
